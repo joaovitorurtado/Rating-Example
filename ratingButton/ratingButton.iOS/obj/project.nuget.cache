@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRNbInU9aruZxVMSI+4gXParTANNw59GSJWnYW0zoyDHo8EBzbJocpy8l0M2dS3q1f/95JtXKfjubnomF25/aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ratingButton\\ratingButton\\ratingButton.iOS\\ratingButton.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

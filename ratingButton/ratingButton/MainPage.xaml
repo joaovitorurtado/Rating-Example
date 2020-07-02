@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:ratingButton"
+             mc:Ignorable="d"
+             x:Class="ratingButton.MainPage"
+             Title="Basic Button Click">
+    <StackLayout>
+        <Label Text="Rating Example"
+               FontSize="50"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+        <AbsoluteLayout>
+            <Label Text="Sua nota é"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutFlags="PositionProportional"/>
+            <Label x:Name="labelNumero"
+                   Text="5"
+                   FontSize="20"
+                   AbsoluteLayout.LayoutBounds=".57, .2, 27, 27"
+                   FontAttributes="Bold"
+                   AbsoluteLayout.LayoutFlags="PositionProportional"
+                   />
+            <ImageButton x:Name="estrela"
+                     Source="blackStar.png"
+                     Clicked="seClicar1"
+                     AbsoluteLayout.LayoutBounds=".6, .2, 27, 27"
+                     AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <ImageButton x:Name="estrelaa"
+                     Source="blackStar.png"
+                     Clicked="seClicar2"
+                     AbsoluteLayout.LayoutBounds=".7, .5, 27, 27"
+                     AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <ImageButton x:Name="estrelaaa"
+                Source="blackStar.png"
+                     Clicked="seClicar3"
+                     AbsoluteLayout.LayoutBounds=".8, .2, 27, 27"
+                     AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            <ImageButton x:Name="estrelaaaa"
+                Source="blackStar.png"
+                     Clicked="seClicar4"
+                     AbsoluteLayout.LayoutBounds=".9,.5, 27, 27"
+                     AbsoluteLayout.LayoutFlags="PositionProportional"
+                     />
+            <ImageButton x:Name="estrelaaaaa"
+                Source="blackStar.png"
+                     Clicked="seClicar5"
+                     AbsoluteLayout.LayoutBounds="1,.5, 27, 27"
+                     AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        </AbsoluteLayout>
+    </StackLayout>
+</ContentPage>

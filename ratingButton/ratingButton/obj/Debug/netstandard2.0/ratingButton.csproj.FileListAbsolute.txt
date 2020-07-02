@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\bin\Debug\netstandard2.0\ratingButton.deps.json
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\bin\Debug\netstandard2.0\ratingButton.dll
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\bin\Debug\netstandard2.0\ref\ratingButton.dll
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\bin\Debug\netstandard2.0\ratingButton.pdb
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.AssemblyInfo.cs
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.dll
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ref\ratingButton.dll
+C:\Users\User\source\repos\ratingButton\ratingButton\ratingButton\obj\Debug\netstandard2.0\ratingButton.pdb
